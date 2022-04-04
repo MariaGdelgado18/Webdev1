@@ -1,0 +1,46 @@
+body { 
+  background-color: pink;
+  margin: 0;
+  font-family: Georgia;
+}
+
+header { 
+    background-color: blueviolet;
+    text-align: center;
+}
+
+section { 
+   background-color: chocolate;
+}
+
+
+footer { 
+    background-color: azure;
+    text-align: center;
+}
+
+h1 { 
+   background-color: black;
+}
+
+main { 
+background-color: turquoise;
+max-width: 100ch;
+
+}
+
+img { 
+width: 100%;
+max-width: 400px;
+margin: 0 auto;
+display: block;
+}
+
+h3 { 
+text-align: center;
+background-color: rgb(53, 211, 74);
+}
+
+p { 
+text-align: center;
+}
